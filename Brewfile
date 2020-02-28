@@ -40,6 +40,7 @@ cask 'telegram-desktop'
 cask 'vlc'
 cask 'whatsapp'
 cask 'spotify'
+cask 'filezilla'
 
 # Quicklook
 cask 'qlcolorcode'
